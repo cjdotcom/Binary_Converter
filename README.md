@@ -2,11 +2,6 @@
 
 > Binary to text converter in shell script.
 
-![1](https://user-images.githubusercontent.com/52457998/66074170-f8fb8400-e52e-11e9-9e8d-5ef3d9392e5c.png)
-
-![2](https://user-images.githubusercontent.com/52457998/66074211-129ccb80-e52f-11e9-982b-ef2edf0f9288.png)
-
-
 ## How to?
 
 Linux
