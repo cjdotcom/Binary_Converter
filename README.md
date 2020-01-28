@@ -8,7 +8,7 @@ Linux/Windows
 
 1. Open the terminal/Power Shell in the Binary Converter directory.
 2. Import the "binary" file:
-![1](https://user-images.githubusercontent.com/52457998/73292528-f65d2280-41e0-11ea-895d-b50800577554.png)
+![1](https://user-images.githubusercontent.com/52457998/73293880-74bac400-41e3-11ea-8c6b-4bea7105ad86.png)
 
 3. Run the "Binary" class and the function for converting the text between 
 parentheses:
