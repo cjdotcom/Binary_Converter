@@ -6,11 +6,11 @@
 
 Linux/Windows
 
-1. Open the terminal/Power Shell in the Binary Converter directory.
-2. Import the "binary" file:
+Open the terminal/Power Shell in the Binary Converter directory.
+Import the "binary" file:
 ![1](https://user-images.githubusercontent.com/52457998/73293880-74bac400-41e3-11ea-8c6b-4bea7105ad86.png)
 
-3. Run the "Binary" class and the function for converting the text between 
+Run the "Binary" class and the function for converting the text between 
 parentheses:
 
 Text to binary:
