@@ -6,7 +6,7 @@
 
 Linux/Windows
 
-1. Open the terminal in the Binary Converter directory.
+1. Open the terminal/Power Shell in the Binary Converter directory.
 2. Import the "binary" file:
 ![1](https://user-images.githubusercontent.com/52457998/73292528-f65d2280-41e0-11ea-895d-b50800577554.png)
 
