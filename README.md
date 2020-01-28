@@ -20,6 +20,6 @@ parentheses:
 ![3](https://user-images.githubusercontent.com/52457998/73293249-4a1c3b80-41e2-11ea-90fc-145aa169852f.png)
 
 
-# Contact
+## Contact
 
 Gabriel H Silva - [@cjdotcomdotbr](https://www.instagram.com/cjdotcomdotbr/) - gabriel.silva-h@hotmail.com
