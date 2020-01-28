@@ -13,10 +13,10 @@ Linux/Windows
 3. Run the "Binary" class and the function for converting the text between 
 parentheses:
 
-## Text to binary
+Text to binary:
 ![2](https://user-images.githubusercontent.com/52457998/73292880-9f0b8200-41e1-11ea-88d5-2948ac9df3f5.png)
 
-## Binary to text
+Binary to text:
 ![3](https://user-images.githubusercontent.com/52457998/73293249-4a1c3b80-41e2-11ea-90fc-145aa169852f.png)
 
 
