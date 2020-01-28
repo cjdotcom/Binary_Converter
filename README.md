@@ -4,7 +4,7 @@
 
 ## How to?
 
-Linux
+Linux/Windows
 
 1. Open the terminal in the Binary Converter directory.
 2. Import the "binary" file:
